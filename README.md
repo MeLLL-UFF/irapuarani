@@ -20,6 +20,17 @@ In accordance with the data agreement terms for this task, as stated below, we d
 However, we make our source code and models available, using this repository as a reference.
 > The dataset may include content which is protected by copyright of third parties. It may only be used in the context of this shared task, and only for scientific research purposes. The dataset may not be redistributed or shared in part or full with any third party. You may not share you passcode with others or give access to the dataset to unauthorised users. Any other use is explicitly prohibited.
 
+<h2 align="left"> MODELS </h2>
+<p style="display: inline-flex; align-items: center;">
+  All models are available in  
+  <a href="https://huggingface.co/collections/melll-uff/irapuarani-at-semeval-2025-67afbb2100adbf07f01469e5" target="_blank">this Hugging Face collection</a>.
+  <img alt="Hugging Face" height="25" width="30" 
+       src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" 
+       style="margin-left: 5px;">
+</p>
+
+
+
 <h2 align="left"> CITING </h2>
 
 > TBA
