@@ -24,9 +24,6 @@ However, we make our source code and models available, using this repository as 
 <p style="display: inline-flex; align-items: center;">
   All models are available in  
   <a href="https://huggingface.co/collections/melll-uff/irapuarani-at-semeval-2025-67afbb2100adbf07f01469e5" target="_blank">this Hugging Face collection</a>.
-  <img alt="Hugging Face" height="25" width="30" 
-       src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" 
-       style="margin-left: 5px;">
 </p>
 
 
