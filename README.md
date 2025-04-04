@@ -1,8 +1,10 @@
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/ddd31922-fad3-4919-a4dc-3b769e1eb6e0"
+         alt="image"
+         width="100" />
+</div>
+
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/ddd31922-fad3-4919-a4dc-3b769e1eb6e0" 
-         alt="image" 
-         width="25" 
-         style="vertical-align: middle; margin-right: 10px;"/> 
     Irapuarani at Semeval-2025 Task 10, Subtask 2
 </h1>
 
